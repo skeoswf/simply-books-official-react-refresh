@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-app-router-with-firebase-auth",
+  "name": "simple-books-react-refresh",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -22,7 +22,7 @@
     "next": "14.2.7",
     "prop-types": "^15.8.1",
     "react": "^18",
-    "react-bootstrap": "^2.10.4",
+    "react-bootstrap": "^2.10.7",
     "react-dom": "^18"
   },
   "devDependencies": {
